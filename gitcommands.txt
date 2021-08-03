@@ -1,9 +1,11 @@
-git status
-git init
-git diff
-git config --global user.name "let's kode it"
-git add
-git commit -
-git log
-git diff <filename>
-git add *
+git status  					->prints the status of the git repository
+git init 					--> initializes the git repository
+git diff <filename> 				--->>check changes made to file with eixisting file
+git config --global user.email  EDd@gg.com  	-->>specify the email for particular repository
+gut config user.name"let's kode it"  		-->>specify username for particular repository
+git add   					-->>add file to staging environment
+git commit -m ""  				-->>commit file to local git repository
+git log 					--->>check file log history
+git remote add origin >>git hub repository url	--->>establish connection to remote github repository
+git add *					---add all files
+git push origin master 				----->>push to master branch

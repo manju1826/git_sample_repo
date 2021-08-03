@@ -9,38 +9,8 @@ git log 					--->>check file log history
 git remote add origin >>git hub repository url	--->>establish connection to remote github repository
 git add *					---add all files
 git push origin master 				----->>push to master branch
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ----------------------------------------
-branch cases commands
+branch 1 cases commands
 git bracnh  	--->>check the branch if any
 git checkout -b branchname 	--->> to create branch
 git checkout branchname 	--->>to switch to branch name

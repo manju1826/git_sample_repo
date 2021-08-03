@@ -36,5 +36,12 @@ git push origin master 				----->>push to master branch
 
 
 
------------------------
-branch 2 changes to check the status
+
+
+
+----------------------------------------
+branch cases commands
+git bracnh  	--->>check the branch if any
+git checkout -b branchname 	--->> to create branch
+git checkout branchname 	--->>to switch to branch name
+

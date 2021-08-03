@@ -11,8 +11,37 @@ git add *					---add all files
 git push origin master 				----->>push to master branch
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ----------------------------------------
 branch cases commands
 git bracnh  	--->>check the branch if any
 git checkout -b branchname 	--->> to create branch
 git checkout branchname 	--->>to switch to branch name
+

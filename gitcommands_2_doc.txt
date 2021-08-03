@@ -1,0 +1,9 @@
+git status
+git init
+git diff
+git config --global user.name "let's kode it"
+git add
+git commit -
+git log
+git diff <filename>
+git add *
